@@ -1,0 +1,8 @@
+{
+  "name": "Sig Pro (Pty) LTD",
+  "description": "Industrial and commercial packaging supplies in Sandton, Gauteng — clear virgin bags, smokey tubing, barrier and security tapes, shrink film, and pallet wrap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
